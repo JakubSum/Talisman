@@ -1,0 +1,14 @@
+1
+Goblin 1
+2
+Bandyta 3
+3
+Ork 3
+4
+Wilk 5
+5
+Grizli 6
+6
+Ogr 7
+7
+Smok 8

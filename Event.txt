@@ -1,0 +1,24 @@
+1
+Pulapka
+Tracisz jeden punkt zycia
+1 3 -1
+2
+Sanitariuszka
+Zyskujesz jeden punkt zycia
+1 3 1
+3
+Zrodlo sily
+Otrzymujesz punkt sily
+4 1 1
+4
+Zrodlo mocy
+Otrzymujesz punkt mocy
+4 2 1
+5
+Klatwa
+Spada na ciebie klatwa slabosci
+1 1 -1
+6
+Szalenstwo
+Twoja glowa wypelnia sie chaosem
+1 2 -1
